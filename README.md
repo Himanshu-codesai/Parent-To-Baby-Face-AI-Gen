@@ -19,6 +19,7 @@ The "Parent-To-Baby-Face-AI-Gen" project uses advanced AI techniques and Stable 
    ```bash
    git clone https://github.com/yourusername/Parent-To-Baby-Face-AI-Gen.git
 2. Drag and drop the workflow file and parent images into the ComfyUI interface to generate the baby face image.
+3. Use ComfyUI Manager to install any missing nodes required for the workflow.
 
 ## Usage
 - Launch the ComfyUI web interface.
