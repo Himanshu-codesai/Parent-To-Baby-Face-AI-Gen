@@ -1,6 +1,7 @@
 # Parent-To-Baby-Face-AI-Gen
 
-**Project Description**  
+## Project Description
+
 The "Parent-To-Baby-Face-AI-Gen" project uses advanced AI techniques and Stable Diffusion to generate a future baby's face image from images of both parents. The workflow is implemented using ComfyUI and incorporates several powerful models and tools to create realistic baby faces.
 
 ## Key Features
